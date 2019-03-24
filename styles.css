@@ -1,0 +1,15 @@
+.container {
+    width: 600px;
+}
+
+.col-1 {
+    height: 50px;
+}
+
+.black {
+    background-color: rgb(0, 0, 255);
+}
+
+.white {
+    background-color: rgb(0, 255, 0);
+}
